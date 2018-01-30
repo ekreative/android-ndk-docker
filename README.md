@@ -1,6 +1,6 @@
 # Android NDK docker image
 
-An image that lets us build android apps using the NDK with docker using gitlab-ci
+An image that lets us build android apps using the NDK with docker using gitlab-ci. Currently with the latest NDK version as the tools don't version the NDK download.
 
 ## Build command
 
